@@ -1,0 +1,12 @@
+numpy
+opencv-python
+matplotlib
+scipy
+tensorflow
+keras
+scikit-learn
+pandas
+seaborn
+dill
+Flask
+#-e.
